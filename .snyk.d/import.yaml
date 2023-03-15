@@ -1,0 +1,8 @@
+---
+schema: 1
+orgName: enterprise-api-delivery
+integrationName: github-enterprise
+branches:
+  - dev-release
+  - qa-release
+  - master
